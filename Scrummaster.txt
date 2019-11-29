@@ -3,12 +3,12 @@ Scrum Master Tanggal 28-29 November 2019 (Frans Tambunan)
 Kamis, 28 November 2019
 Frans Tambunan
 Yang dikerjakan hari ini    : Menambah nama dan Nim
-Yang dikerjakan selanjutnya : Membuat Judul Slide
+Yang dikerjakan selanjutnya : Mengubah teks paragraf menjadi rata kiri kanan
 Masalah yang dihadapi       : Tidak ada
 
 Hagai Anugrahta S
 Yang dikerjakan hari ini    : Menambah nama dan Nim
-Yang dikerjakan selanjutnya : Membuat Judul Slide
+Yang dikerjakan selanjutnya : Menambahkan Deskripsi
 Masalah yang dihadapi       : Tidak ada
 
 M Salim Bahreisy
@@ -18,7 +18,7 @@ Masalah yang dihadapi       : Tidak ada
 
 Evansius Sihotang
 Yang dikerjakan hari ini    : Menambah nama dan Nim
-Yang dikerjakan selanjutnya : Membuat Judul Slide
+Yang dikerjakan selanjutnya : Merubah ukuran font paragraf
 Masalah yang dihadapi       : Tidak ada
 
 M Apriyansah Sihotang
@@ -29,29 +29,29 @@ Masalah yang dihadapi       : Tidak ada
 
 Jumat, 29 November 2019
 Frans Tambunan
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : Mengubah teks paragraf menjadi rata kiri kanan
+Yang dikerjakan selanjutnya : Mengubah background
+Masalah yang dihadapi       : Tidak ada
 
 Hagai Anugrahta S
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : Menambahkan Deskripsi dan Menambah Latar Belakang
+Yang dikerjakan selanjutnya : Menambahkan Fungsi Alat
+Masalah yang dihadapi       : Tidak ada
 
 M Salim Bahreisy
 Yang dikerjakan hari ini    : 
 Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Masalah yang dihadapi       : Tidak ada
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
+Yang dikerjakan hari ini    : Merubah ukuran font paragraf
 Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Masalah yang dihadapi       : Tidak ada
 
 M Apriyansah Sihotang
 Yang dikerjakan hari ini    : 
 Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Masalah yang dihadapi       : Tidak ada
 
 Scrum Master Tanggal 2-3 Desember 2019 (Hagai Anugrahta S)
 
