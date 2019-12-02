@@ -13,7 +13,7 @@ Masalah yang dihadapi       : Tidak ada
 
 M Salim Bahreisy
 Yang dikerjakan hari ini    : Menambah nama dan Nim
-Yang dikerjakan selanjutnya : Membuat Judul Slide
+Yang dikerjakan selanjutnya : Memeriksa kesalahan penulisan
 Masalah yang dihadapi       : Tidak ada
 
 Evansius Sihotang
@@ -23,7 +23,7 @@ Masalah yang dihadapi       : Tidak ada
 
 M Apriyansah Sihotang
 Yang dikerjakan hari ini    : Menambah nama dan Nim
-Yang dikerjakan selanjutnya : Membuat Judul Slide
+Yang dikerjakan selanjutnya : Mengisi topik tentang Kelebihan
 Masalah yang dihadapi       : Tidak ada
 
 
@@ -39,18 +39,18 @@ Yang dikerjakan selanjutnya : Menambahkan Fungsi Alat
 Masalah yang dihadapi       : Tidak ada
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
+Yang dikerjakan hari ini    : Merubah Kesalahan tulisan pada deskripsi
+Yang dikerjakan selanjutnya : Menambah isi dari kekurangan
 Masalah yang dihadapi       : Tidak ada
 
 Evansius Sihotang
 Yang dikerjakan hari ini    : Merubah ukuran font paragraf
-Yang dikerjakan selanjutnya : 
+Yang dikerjakan selanjutnya : Menambah topik mengenai Fitur
 Masalah yang dihadapi       : Tidak ada
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
+Yang dikerjakan hari ini    : Mengisi topik tentang Kelebihan
+Yang dikerjakan selanjutnya : Menambah isi dari kelebihan
 Masalah yang dihadapi       : Tidak ada
 
 Scrum Master Tanggal 2-3 Desember 2019 (Hagai Anugrahta S)
