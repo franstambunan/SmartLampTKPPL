@@ -1,4 +1,4 @@
-Scrum Master Tanggal 28-29 November 2019 (Frans Tambunan)
+Scrum Master Tanggal 28 November - 4 Desember 2019 (Frans Tambunan)
 
 Kamis, 28 November 2019
 Frans Tambunan
@@ -35,7 +35,7 @@ Masalah yang dihadapi       : Tidak ada
 
 Hagai Anugrahta S
 Yang dikerjakan hari ini    : Menambahkan Deskripsi dan Menambah Latar Belakang
-Yang dikerjakan selanjutnya : Menambahkan Fungsi Alat
+Yang dikerjakan selanjutnya : Menambah Sejarah
 Masalah yang dihadapi       : Tidak ada
 
 M Salim Bahreisy
@@ -53,87 +53,86 @@ Yang dikerjakan hari ini    : Mengisi topik tentang Kelebihan
 Yang dikerjakan selanjutnya : Menambah isi dari kelebihan
 Masalah yang dihadapi       : Tidak ada
 
-Scrum Master Tanggal 2-3 Desember 2019 (Hagai Anugrahta S)
 
 Senin, 2 Desember 2019
 Frans Tambunan
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : Merubah background, merapikan isi, merubah posisi tulisan, merapikan isi dan merubah font
+Yang dikerjakan selanjutnya : Memperbarui, merapikan dan menambah isi
+Masalah yang dihadapi       : tidak tau cara merubah background menjadi gambar
 
 Hagai Anugrahta S
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : Menambah Sejarah, Menambahkan Spesifikasi dan Cara kerja
+Yang dikerjakan selanjutnya : Menambahkan cara hubungkan ke hp
+Masalah yang dihadapi       : Tidak ada
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       :
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Selasa, 3 Desember 2019
 Frans Tambunan
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : Memperbarui, merapikan dan menambah isi
+Yang dikerjakan selanjutnya : Menambah isi
+Masalah yang dihadapi       : Tidak ada
 
 Hagai Anugrahta S
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : Menambahkan cara hubungkan ke hp, menambahkan keunggulan smartlamp dibanding lampu biasa, menambah 3 kelebihan smartlamp dibanding lampu biasa
+Yang dikerjakan selanjutnya : Menambahkan risiko smart home
+Masalah yang dihadapi       : Tidak ada
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
-
-Scrum Master Tanggal 4-5 Desember 2019 (M Salim Bahreisy)
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Rabu, 4 Desember 2019
 Frans Tambunan
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : Menambah isi
+Yang dikerjakan selanjutnya : Memperbarui isi
+Masalah yang dihadapi       : Tidak ada
 
 Hagai Anugrahta S
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : Menambahkan risiko smart home, melengkapi risiko smart home
+Yang dikerjakan selanjutnya : menambahkan 5 hal yg diperhatikan sebelum membeli smartlamp
+Masalah yang dihadapi       : Tidak ada
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       :
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
+
+Scrum Master Tanggal 5 - 11 Desember 2019 (Hagai Anugrahta S)
 
 Kamis, 5 Desember 2019
 Frans Tambunan
@@ -147,21 +146,19 @@ Yang dikerjakan selanjutnya :
 Masalah yang dihadapi       : 
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
-
-Scrum Master Tanggal 6 dan 9 Desember 2019 (Evansius Sihotang)
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Jumat, 6 Desember 2019
 Frans Tambunan
@@ -175,19 +172,19 @@ Yang dikerjakan selanjutnya :
 Masalah yang dihadapi       : 
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       :
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Senin, 9 Desember 2019
 Frans Tambunan
@@ -201,19 +198,19 @@ Yang dikerjakan selanjutnya :
 Masalah yang dihadapi       : 
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Scrum Master Tanggal 10-11 Desember 2019 (M Apriyansah Sihotang)
 
@@ -229,19 +226,19 @@ Yang dikerjakan selanjutnya :
 Masalah yang dihadapi       : 
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       :
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Rabu, 11 Desember 2019
 Frans Tambunan
@@ -255,16 +252,16 @@ Yang dikerjakan selanjutnya :
 Masalah yang dihadapi       : 
 
 M Salim Bahreisy
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 Evansius Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
 
 M Apriyansah Sihotang
-Yang dikerjakan hari ini    : 
-Yang dikerjakan selanjutnya : 
-Masalah yang dihadapi       : 
+Yang dikerjakan hari ini    : -
+Yang dikerjakan selanjutnya : -
+Masalah yang dihadapi       : -
